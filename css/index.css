@@ -20,8 +20,6 @@ body{
 }
 
 .huddle_card1{  
-    /* width: 100%; */
-
     background: hsl(193, 100%, 96%);
     background-image: url(../images/bg-hero-mobile.svg);
     background-position: top;
